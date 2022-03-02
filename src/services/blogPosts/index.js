@@ -109,7 +109,7 @@ blogPostsRouter.post("/", newBlogPostValidation, (req, res, next) => {
     const blogPosts = getBlogPosts()
 
     if (req.query && req.query.category) {
-      const filteredBlogPosts = blgPosts.filter(blogPost => blogPost.category === req.query.category)
+      const filteredBlogPosts = blogPosts.filter(blogPost => blogPost.category === req.query.category)
       res.send(filteredBlogPosts)
     } else {
       res.send(blogPosts)
