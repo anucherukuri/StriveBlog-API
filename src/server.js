@@ -13,6 +13,11 @@ server.use("/authors", authorsRouter);
 
 server.use("/blogPosts", blogPostsRouter);
 
+server.use(badRequestHandler);
+server.use(unauthorizedHandler);
+server.use(notFoundHandler);
+server.use(genericErrorHandler);
+
 console.table(listEndpoints);
 
 server.listen(port, () => {
