@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Diego",
+        "surname": "Banovaz",
+        "email": "diegobanovaz@gmail.com",
+        "date of birth": "22-Feb-1993",
+        "createdAt": "2022-03-01T15:34:05.567Z",
+        "id": "3dvx5wxal08aiqdb",
+        "avatar": "https://ui-avatars.com/api/?name=Diego+Banovaz",
+        "updatedAt": "2022-03-01T16:28:30.049Z"
+    },
+    {
+        "name": "Daniele",
+        "surname": "Banovaz",
+        "email": "danielbanovaz@gmail.com",
+        "date of birth": "08-Sep-1990",
+        "createdAt": "2022-03-01T15:36:02.708Z",
+        "id": "3dvx5wxal08al8r8",
+        "avatar": "https://ui-avatars.com/api/?name=Daniele+Banovaz",
+        "updatedAt": "2022-03-01T16:29:30.439Z"
+    },
+    {
+        "name": "Stefano",
+        "surname": "Casassola",
+        "email": "stefanocasassola@gmail.com",
+        "date of birth": "26-Apr-1988",
+        "createdAt": "2022-03-01T15:36:51.698Z",
+        "id": "3dvx5wxal08amak2",
+        "avatar": "https://ui-avatars.com/api/?name=Stefano+Casassola",
+        "updatedAt": "2022-03-01T16:30:44.270Z"
+    },
+    {
+        "name": "Stefano",
+        "surname": "Miceli",
+        "email": "stefanomiceli@gmail.com",
+        "date of birth": "18-Jan-1989",
+        "createdAt": "2022-03-01T15:37:26.624Z",
+        "id": "3dvx5wxal08an1i8",
+        "avatar": "https://ui-avatars.com/api/?name=Stefano+Miceli",
+        "updatedAt": "2022-03-01T16:32:18.150Z"
+    },
+    {
+        "name": "Lidia",
+        "surname": "Kovac",
+        "email": "stefanomiceli@gmail.com",
+        "date of birth": "12-May-1995",
+        "createdAt": "2022-03-01T15:37:59.821Z",
+        "id": "3dvx5wxal08anr4d"
+    },
+    {
+        "name": "Ubeyt",
+        "surname": "Demir",
+        "email": "ubeytdemir@gmail.com",
+        "date of birth": "24-June-1994",
+        "createdAt": "2022-03-01T15:38:44.790Z",
+        "id": "3dvx5wxal08aopti",
+        "updatedAt": "2022-03-01T15:41:29.269Z"
+    },
+    {
+        "name": "Anusha",
+        "surname": "Cherukuri",
+        "email": "anushacherukuri@gmail.com",
+        "date of birth": "28-July-1996",
+        "avatar": "https://ui-avatars.com/api/?name=Anusha+Cherukuri",
+        "createdAt": "2022-03-01T16:09:26.344Z",
+        "id": "3dvx5zejl08bs6rt",
+        "updatedAt": "2022-03-01T16:25:25.742Z"
+    },
+    {
+        "name": "Anusha",
+        "surname": "Cherukuri",
+        "email": "anushacherukuri@gmail.com",
+        "date of birth": "28-July-1996",
+        "createdAt": "2022-03-01T16:37:16.290Z",
+        "id": "3dvx5zejl08crzb6"
+    },
+    {
+        "name": "Anusha",
+        "surname": "Cherukuri",
+        "email": "anushacherukuri@gmail.com",
+        "date of birth": "28-July-1996",
+        "avatar": "https://ui-avatars.com/api/?name=Anusha+Cherukuri",
+        "createdAt": "2022-03-01T16:38:10.768Z",
+        "id": "3dvx5zvsl08ct5ch"
+    },
+    {
+        "name": "Alvah",
+        "surname": "Romaguera",
+        "email": "Sat Jul 24 2021 23:35:02 GMT+0100 (Irish Standard Time)",
+        "date of birth": "28-July-1996",
+        "avatar": "https://ui-avatars.com/api/?name=Alvah+Romaguera",
+        "createdAt": "2022-03-01T16:38:46.883Z",
+        "id": "3dvx5zvsl08ctx7n"
+    },
+    {
+        "name": "Abbie",
+        "surname": "Auer",
+        "email": "Sat Jan 29 2022 17:07:37 GMT+0000 (Greenwich Mean Time)",
+        "date of birth": "28-July-1996",
+        "avatar": "https://ui-avatars.com/api/?name=Abbie+Auer",
+        "createdAt": "2022-03-01T16:38:47.869Z",
+        "id": "3dvx5zvsl08ctxz1"
+    },
+    {
+        "name": "Leola",
+        "surname": "Bogan",
+        "email": "Tue Dec 14 2021 19:30:02 GMT+0000 (Greenwich Mean Time)",
+        "date of birth": "28-July-1996",
+        "avatar": "https://ui-avatars.com/api/?name=Leola+Bogan",
+        "createdAt": "2022-03-01T16:38:51.167Z",
+        "id": "3dvx5zvsl08cu0in"
+    },
+    {
+        "name": "Rafael",
+        "surname": "Tillman",
+        "email": "Fri Nov 05 2021 16:11:36 GMT+0000 (Greenwich Mean Time)",
+        "date of birth": "28-July-1996",
+        "avatar": "https://ui-avatars.com/api/?name=Rafael+Tillman",
+        "createdAt": "2022-03-01T16:38:52.167Z",
+        "id": "3dvx5zvsl08cu1af"
+    }
+]
