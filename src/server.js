@@ -3,6 +3,9 @@ import listEndpoints from 'express-list-endpoints';     //Importing listEndpoint
 import authorsRouter from './services/authors/index.js';
 import blogPostsRouter from './services/blogPosts/index.js'
 
+
+import { badRequestHandler, unauthorizedHandler, notFoundHandler, genericErrorHandler } from "./errorHandlers.js"
+
 const server = express();
 
 const port = 3001;
